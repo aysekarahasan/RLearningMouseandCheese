@@ -1,0 +1,3 @@
+C:/Users/Ayse/CLionProjects/mouseandcheese/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Ayse/CLionProjects/mouseandcheese/cmake-build-debug/CMakeFiles/mouseandcheese.dir
+C:/Users/Ayse/CLionProjects/mouseandcheese/cmake-build-debug/CMakeFiles/rebuild_cache.dir
